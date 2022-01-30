@@ -15,3 +15,14 @@ After the system has been tested on healthy people, it has also been demonstrate
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/85088116/151688592-fb71ff86-f7ca-4ec2-af06-e47761afc81c.png">
 
 The amputee performed a series of routine operations, including pouring water, picking up clothes, etc.
+
+
+
+https://user-images.githubusercontent.com/85088116/151689237-0c95e048-bf79-4779-a14a-a45a6c959623.mp4
+
+This video shows how healthy people can interact with this system.
+
+
+https://user-images.githubusercontent.com/85088116/151689253-d88f96a4-afd9-492f-8268-a892a8b4a395.mp4
+
+This video shows how amputee can interact with this system.
